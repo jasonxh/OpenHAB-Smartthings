@@ -1,3 +1,5 @@
+This branch is for integration with SmartThings IDE, which requires a [special folder structure](https://docs.smartthings.com/en/latest/tools-and-ide/github-integration.html#repository-structure).
+
 # OpenHAB-Smartthings
 
 **This openHAB Binding is now part of openHAB. It is called "Samsung Smartthings" in the Add-ons tab. [Click here](https://www.openhab.org/addons/bindings/smartthings/)**
